@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/usr/share/nvim'
+let g:netrw_dirhist_4='/home/co/Downloads'
+let g:netrw_dirhist_3='/home/co'
+let g:netrw_dirhist_2='/home/co/.vim'
+let g:netrw_dirhist_1='/home/co/Documents/github/SEM4/SYS/TP/tp4/ex4'

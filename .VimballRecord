@@ -1,0 +1,1 @@
+Recover-0.19.vmb: call delete('/home/co/.vim/plugin/recover.vim')|call delete('/home/co/.vim/autoload/recover.vim')|call delete('/home/co/.vim/doc/recoverPlugin.txt')|call delete('/home/co/.vim/contrib/cvim')
